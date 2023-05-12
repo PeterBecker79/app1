@@ -1,5 +1,18 @@
 {
     "version": "0.2.0",
     "configurations": [
+        {
+            "name": "ALGO-GitHub Dev",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "Sandbox",
+            "environmentName": "Development",
+            "startupObjectId": 9306,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true
+        }
     ]
 }
